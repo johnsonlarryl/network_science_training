@@ -1,0 +1,14 @@
+name: network_science_training
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - matplotlib
+  - networkx
+  - numpy=1.23.3
+  - pandas
+  - python=3.9.5
+  - jupyter
+  - scikit-learn
